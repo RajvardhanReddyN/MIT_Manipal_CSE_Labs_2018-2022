@@ -13,7 +13,7 @@ Programming for logic design using Verilog.
 ## 4th Semester :
 
 ### Design and Analysis of Algorithms Lab (DAA): 
-programming Concepts of Algorithms in 'C' language .
+Programming Concepts of Algorithms in 'C' language .
 
 ### Database Systems Lab (DBS):
 Programming in SQL using Oracle Database (Version: Orcale 11G XE).
